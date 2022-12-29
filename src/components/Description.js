@@ -10,12 +10,12 @@ const Description = () => {
     <div className='h-screen'>
         <div className='bg-[#ffbf23] h-5/6 flex justify-evenly items-center gap-x-12 px-20'>
             <div 
-              className='text-4xl w-80'    data-aos="fade-down-right"
+              className='text-5xl w-80 font-medium'    data-aos="fade-down-right"
               data-aos-easing="ease-in-out"
               data-aos-mirror="true"
               data-aos-duration="1000"
             >
-                With the Right Software, Great Things Can Happen
+                Let's Make Society Safer for All!
             </div>
             <div 
               className='w-96' 
@@ -24,7 +24,18 @@ const Description = () => {
               data-aos-mirror="true"
               data-aos-duration="1000"
             >
-                I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font. Feel free to drag and drop me anywhere you like on your page. I’m a great place for you to tell a story and let your users know a little more about you.
+              <img src="/img/comment.svg" className="block w-5 h-5 mb-4"/>
+              <b>Alero</b> allows users to report crimes anonymously.
+              <br/><br/>
+              <b><i>Nomore hesitation to report a crime. <br />Nomore fear of retaliation or for other personal reasons.</i></b>
+              <br/><br/>
+              Now one can report crimes that have been committed without fear of being identified as a witness.
+              <br/><br/>
+              <b>Alero</b> is built on <i><b>blockchain</b></i> which ensures that the information cannot be accessed or altered by anyone other than the authorities.
+              <br/><br/>
+              <b><i>Alero</i></b> also incorporates machine learning algorithms to analyze and interpret the data submitted through the website. 
+              <br/><br/>
+              Using both Machine Learning and Blockchain, <b>Alero</b> makes it easier <b><i>for law enforcement</i></b> to investigate and solve crimes by aggregating information from multiple sources.
             </div>
         </div>
     </div>

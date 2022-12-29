@@ -21,7 +21,7 @@ const Footer = () => {
       </div>
       <div className='flex justify-center items-center gap-x-10'>
         <a href="">
-          <FacebookIcon fontSize='large'/>
+          <FacebookIcon fontSize='large' className=''/>
         </a>
         <a href="">
           <TwitterIcon fontSize='large'/> 
