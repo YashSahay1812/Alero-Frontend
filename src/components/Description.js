@@ -33,7 +33,7 @@ const Description = () => {
               <br/><br/>
               <b>Alero</b> is built on <i><b>blockchain</b></i> which ensures that the information cannot be accessed or altered by anyone other than the authorities.
               <br/><br/>
-              <b><i>Alero</i></b> also incorporates machine learning algorithms to analyze and interpret the data submitted through the website. 
+              <b><i>Alero</i></b> also incorporates <b><i>machine learning</i></b> algorithms to analyze and interpret the data submitted through the website. 
               <br/><br/>
               Using both Machine Learning and Blockchain, <b>Alero</b> makes it easier <b><i>for law enforcement</i></b> to investigate and solve crimes by aggregating information from multiple sources.
             </div>

@@ -35,7 +35,13 @@ const Hero = () => {
         </div>
       </div>
       <div id="image" className='w-2/3 flex items-center'>
-        <img src="/img/Hero/report3.jpg" />
+        <img 
+          src="/img/Hero/report3.jpg" 
+          data-aos="fade-left"
+          data-aos-duration="1000"
+          data-aos-mirror="false"
+          data-aos-easing="ease-in-out"
+        />
       </div>
     </div>
   )
