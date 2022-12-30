@@ -7,8 +7,8 @@ const Description = () => {
   AOS.init();
 
   return (
-    <div className='h-screen'>
-        <div className='bg-[#ffbf23] h-5/6 flex justify-evenly items-center gap-x-12 px-20'>
+    <div className='h-fit py-16'>
+        <div className='bg-[#ffbf23] h-fit flex justify-evenly items-center gap-x-12 px-20 py-10'>
             <div 
               className='text-5xl w-80 font-medium'    data-aos="fade-down-right"
               data-aos-easing="ease-in-out"
@@ -24,10 +24,10 @@ const Description = () => {
               data-aos-mirror="true"
               data-aos-duration="1000"
             >
-              <img src="/img/comment.svg" className="block w-5 h-5 mb-4"/>
+              <img src="/img/Description/quote.svg" className="block w-5 h-5 mb-4"/>
               <b>Alero</b> allows users to report crimes anonymously.
               <br/><br/>
-              <b><i>Nomore hesitation to report a crime. <br />Nomore fear of retaliation or for other personal reasons.</i></b>
+              <b><i>Nomore hesitation to report a crime. <br />Nomore fear of retaliation.</i></b>
               <br/><br/>
               Now one can report crimes that have been committed without fear of being identified as a witness.
               <br/><br/>

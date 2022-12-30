@@ -23,7 +23,7 @@ const Feedbacks = () => {
                 </svg>
                 <p className="leading-relaxed mb-6">Synth chartreuse iPhone lomo cray raw denim brunch everyday carry neutra before they sold out fixie 90's microdosing. Tacos pinterest fanny pack venmo, post-ironic heirloom try-hard pabst authentic iceland.</p>
                 <a className="inline-flex items-center">
-                    <img alt="testimonial" src="/img/Avatar1.jpg" className="w-12 h-12 rounded-full flex-shrink-0 object-cover object-center" />
+                    <img alt="testimonial" src="/img/Feedbacks/Avatar1.jpg" className="w-12 h-12 rounded-full flex-shrink-0 object-cover object-center" />
                     <span className="flex-grow flex flex-col pl-4">
                     <span className="title-font font-medium text-gray-900">Manu Mahajan</span>
                     <span className="text-gray-500 text-sm">POLICE OFFICER</span>
@@ -43,7 +43,7 @@ const Feedbacks = () => {
                 </svg>
                 <p className="leading-relaxed mb-6">Synth chartreuse iPhone lomo cray raw denim brunch everyday carry neutra before they sold out fixie 90's microdosing. Tacos pinterest fanny pack venmo, post-ironic heirloom try-hard pabst authentic iceland.</p>
                 <a className="inline-flex items-center">
-                    <img alt="testimonial" src="/img/Avatar2.jpg" className="w-12 h-12 rounded-full flex-shrink-0 object-cover object-center" />
+                    <img alt="testimonial" src="/img/Feedbacks/Avatar2.jpg" className="w-12 h-12 rounded-full flex-shrink-0 object-cover object-center" />
                     <span className="flex-grow flex flex-col pl-4">
                     <span className="title-font font-medium text-gray-900">Sushant Singhal</span>
                     <span className="text-gray-500 text-sm">ENGINEER</span>

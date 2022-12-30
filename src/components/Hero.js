@@ -34,8 +34,8 @@ const Hero = () => {
             </div>
         </div>
       </div>
-      <div id="image">
-        <img src="/img/hero.svg" className='w-full h-full'/>
+      <div id="image" className='w-2/3 flex items-center'>
+        <img src="/img/Hero/report3.jpg" />
       </div>
     </div>
   )
